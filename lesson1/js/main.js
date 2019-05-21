@@ -33,3 +33,9 @@ mainList = {
 };
 
 console.log(mainList['arrOffers']); //вывел массив в консоль
+
+
+//
+//$ git commit -a -m "название комита" - пушу в мастер
+//  git status     смотрю есть ли изменения
+//  git push -u test master пушу в гит  где тест это название проекта а мастер ветка
